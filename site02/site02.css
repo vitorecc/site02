@@ -1,0 +1,26 @@
+body{
+	background: rgb(0, 32, 69);
+	color: white;
+	font-family: Arial, sans-serif;
+	text-align: center;}
+	a {
+  text-decoration: underline;}
+	h4 {
+  opacity: 0.40;}
+	button {
+  background-color: black;
+  transition: background-color 0.8s;}
+
+	button:hover {
+  background-color: black;}
+	img {
+  box-shadow: 1px 0px 15px 10px #999999;}
+	img {
+  border-radius: 50px;}
+  	iframe {
+  border-radius: 40px;}
+
+
+	span {
+  animation: blinking 2s infinite;
+}
